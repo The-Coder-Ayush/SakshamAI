@@ -25,3 +25,5 @@ build/
 *.log
 
 uploads/
+
+extracted_images/
